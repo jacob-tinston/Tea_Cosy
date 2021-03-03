@@ -52,7 +52,7 @@ footer {
     top: 69px;
 }
 
-.container {
+.main-container {
     height: 700px;
     width: auto;
     display: flex;
@@ -80,7 +80,31 @@ footer {
     padding: 10px 0;
 }
 
+.teas-title {
+    position: relative;
+    top:69px;
+    width: 100%;
+    margin-top: 70px;
+    margin-bottom: 10px;
+}
+
+.teas-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.teas {
+    width: 1000px;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .box > img {
     height: 200px;
     width: 300px;
+    margin: 15px;
 }

@@ -18,7 +18,7 @@ The website follows a design spec and uses responsive design techniques.
 * CSS
 
 ## Status
-Project is: _in-progress_
+Project is: _finished_
 
 ## Contact
 Created by: Jacob  <br/>
